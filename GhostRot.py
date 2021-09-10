@@ -51,7 +51,7 @@ def logo():
  | | |_ | '_ \ / _ \/ __| __| |  _  // _ \| __|
  | |__| | | | | (_) \__ \ |_  | | \ \ (_) | |_ 
   \_____|_| |_|\___/|___/\__| |_|  \_\___/ \__|
-  {V} - https://github.com/TheMakeAWishKid/GhostRot.git
+  {V} - https://github.com/MAWK0235/GhostRot.git
     """.format(V=VERSION))
     print(bcolors.ENDC)
 
