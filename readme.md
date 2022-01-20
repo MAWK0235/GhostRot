@@ -1,3 +1,5 @@
+FOR FUCKS SAKE STOP SUBMITTING PULL REQUESTS AND READ THE MANUAL 
+
 ## What is GhostRot ?
 GhostRot is an anonymization script. GhostRot redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
 
